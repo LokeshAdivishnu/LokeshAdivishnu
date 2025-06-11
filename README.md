@@ -46,7 +46,7 @@
 
 ## 📫 Connect with Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lokeshadivishnu/)
-- ✉️ Email: `lokeshwararaoadhivishnu@example.com` (replace it!)
+- ✉️ Email: `lokeshwararaoadhivishnu@example.com`
 - 📍 Based in Hyderabad, India
 
 ---
