@@ -21,12 +21,14 @@
 ## 🛠 Tech Stack
 | Skillset     | Tools & Languages |
 |--------------|-------------------|
-| Data & BI    | SQL, Power BI, Pandas, Excel |
-| Backend/Scripting | Python, Bash, CMD |
-| Automation   | Python Scripts, System Utilities |
+| Languages    | Python, CSharp, JavaScript |
+| Frameworks | ASP.NET MVC, Django |
+| Databases   | SQL, MySQL, MongoDB, Microsoft SQL Server |
 | Visualization | Matplotlib, Seaborn, Power BI |
+| Web Development | Streamlit, HTML, CSS |
+| Console App Development | Windows Forms, PyInstaller, Tkinter |
 | Version Control | Git, GitHub |
-| Misc Tools   | OpenCV, BeautifulSoup, PRAW (Reddit API), Azure AD Device Flow |
+| Operating Systems  | Windows |
 
 ---
 
@@ -40,6 +42,9 @@
 
 ### 🔹 [Surveillance Camera Tool](https://github.com/LokeshAdivishnu/Surveillance-Camera-With-Python)
 > 📷 Basic CCTV-like system using OpenCV with live preview and image save.
+
+### 🔹 [Daily Status Report WebApp](https://github.com/LokeshAdivishnu/DailyStatusReport)
+> 📝 Web App to generate a daily status report.
 
 ---
 
