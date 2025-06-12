@@ -3,7 +3,6 @@
   <b>Aspiring Data Analyst | Python Automation Enthusiast | SQL Explorer</b>
 </p>
 <p align="center">
-  <a href="https://github.com/LokeshAdivishnu"><img src="https://img.shields.io/github/followers/LokeshAdivishnu?label=Follow&style=social" /></a>
   <a href="https://www.linkedin.com/in/lokeshadivishnu/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white" /></a>
 </p>
 
